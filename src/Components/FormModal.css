@@ -1,0 +1,42 @@
+
+.body-1{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+.formclosebutton button {
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+.formclosebutton{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+label{
+    display: block;
+}
+
+.submission-form{
+    max-width: 500px;
+    margin: 2rem auto;
+    border: 2px solid #E74C3C;
+    padding: 2rem;
+}
+input{
+    display: block;
+    width: 100%;
+}
+.sndbtn{
+    border: 0;
+    background-color: blue;
+    padding: 5rem;
+    color: white;
+    margin: 1rem 0;
+    width: auto;
+    text-transform: uppercase;
+    cursor: pointer;
+}
